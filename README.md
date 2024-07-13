@@ -92,4 +92,4 @@ Don't forget to leave a star ⭐️
 
 ##
 
-Made with ❤ by Anvansh ([@iamarjitgoyal](https://github.com/iamarjitgoyal))
+Made with ❤ by Arjit ([@iamarjitgoyal](https://github.com/iamarjitgoyal))
